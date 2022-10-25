@@ -1,3 +1,5 @@
+# Merge Sort Program
+
 def mergeSort(arr):
     if len(arr) > 1:
         r = len(arr)//2
